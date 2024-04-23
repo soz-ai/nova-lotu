@@ -17,7 +17,7 @@
 
 ## Installation
 
-1. Open Nova Preferences window (`⌘ + ,`)
+1. Open Nova Preferences windo
 2. Open the "Theme" option
 3. Click on "More themes" button
 4. Search for "Lotus Pro"
@@ -25,6 +25,6 @@
 
 ## Activation
 
-1. Open Nova Preferences window (`⌘ + ,`)
+1. Open Nova Preferences windo
 2. Open the "Theme" option
 3. Scroll to "Lotus Pro" and click on it
